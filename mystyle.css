@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(239, 246, 248);
+    color: gray;
+  }
+ .btn {
+   text-decoration: none;
+   background-color: cornflowerblue;
+   color: white;
+   padding: 10px;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px 5px gray;
+   opacity: 0.8;
+   width:10%;
+ }
+ .single{
+  margin-left: 45%;  
+ }
+
+ .double{
+   margin-left:25%;
+   margin-right:25%;
+ }
+
+ .container{
+   width: 60%;
+   margin-left: 20%;
+   background-color: lightblue;
+   padding: 5%;
+ }
+
+ input{
+   width: 90%;
+   margin-left: 5%;
+   margin-bottom: 3%;
+   margin-top: 1%;
+   padding: 5px;
+ }
+
+ label{
+   margin-left:5%;
+ }
+
+ textarea{
+   margin-left:5%;
+   width:90%;
+   margin-top:1%;
+ }
+
+ .buttons{
+  display: flex;
+ }

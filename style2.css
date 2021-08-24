@@ -1,0 +1,35 @@
+.container {
+    width: 90%;
+    background-color: whitesmoke;
+    margin-left:5%;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.btn {
+    background-color: rgb(253, 253, 253);
+    color: mediumblue;
+    padding: 5px;
+   border-radius: 20px;
+   box-shadow: 5px 5px 5px 5px gray;
+   opacity: 0.8;
+   width:100px;
+   margin-left: 8px;
+}
+
+table{
+    border-spacing: 0px 15px;
+}
+
+td,th{
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+.firstRow{
+    display: flex;
+    justify-content: space-between;
+}
+.blue{
+    color:cornflowerblue;
+}
